@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FDot.Core/FDot.Core.csproj" />
+  <Project Path="FDot.Sandbox/FDot.Sandbox.csproj" />
+</Solution>
